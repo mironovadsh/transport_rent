@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const ASSORT_ROUTE = '/assort'
+export const RENT_ROUTE = '/rent'
+export const TS_ROUTE = '/ts'
